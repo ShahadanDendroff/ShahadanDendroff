@@ -1,8 +1,6 @@
 <h1 align = "left"> Hi, I'm Shahadan </h1>
 <h3 align="left">I am a programmer! In addition to being a Legal Operations Specialist at Google in the East Asia region! But my programming work is very low :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veerammalv&label=Profile%20views&color=0e75b6&style=flat" alt="veerammalv" /> </p>
-
 <p align="left"></p>
 
 <h3 align="left" Languages and Tools:</h3>
