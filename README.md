@@ -1,7 +1,7 @@
 # Hi there, I'm [Shahadan Dendroff]()
 
 ## About Me
-A Full-Stack web developer with a love for coding and crafting digital experiences. When I'm not immersed in code, you'll find me at the chessboard strategizing my next move, solving intriguing problems, or exploring new technologies. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between!🚴‍♂️♟️👨‍💻 ⚽.
+I am a programmer! In addition to being a Legal Operations Specialist at Google in the East Asia region! But my programming work is very low :)
 
 ## GitHub Stats
 
@@ -26,13 +26,3 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 ![Profile viewers](https://komarev.com/ghpvc/?username=shahadandendroff&color=green)
 <br>
-## 🌱 I'm Currently working on:
-- Projects using Laravel, VUE js,
-- Tourism Portal using React, Anertia js and Laravel.
-- Problem solving
-
-## 💬 Ask Me About
-
-- Anything related to React, Redux, HTML, CSS, Python, Ruby on Rails, JavaScript, Postgresql, Mysql, Laravel, VUE js, Problem-solving, Machine learning
-- Playing soccer, chess, Magic Rubik's cube
-- VS Code, PyCharm, Git & GitHub.
